@@ -52,3 +52,5 @@ aws s3 ls
 ![image](https://github.com/user-attachments/assets/4af6af00-8e19-4e07-9f8b-59cc04ce4df4)
 
 
+8. Execute the YAML to Enable Versioning on the AWS Buckets
+
