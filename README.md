@@ -54,3 +54,10 @@ aws s3 ls
 
 8. Execute the YAML to Enable Versioning on the AWS Buckets
 
+Before executing to check the Versioning on the AWS portal for `test1-pavan-raj` bucket
+
+![image](https://github.com/user-attachments/assets/7f586a70-8aa5-4ab2-9639-d029dcfdacd6)
+
+```
+ansible-playbook s3_versioning.yaml
+```
