@@ -61,6 +61,6 @@ Before executing to check the Versioning on the AWS portal for `test1-pavan-raj`
 ```
 ansible-playbook s3_versioning.yaml
 ```
-After executing to check the Versioning on the AWS portal for `test1-pavan-raj` bucket
+After executing to check the Versioning on the AWS portal for `test1-pavan-raj` bucket and for other buckets as well which is enabled 
 
 ![image](https://github.com/user-attachments/assets/76b479cd-cbfb-4114-aa57-d522fcc43273)
