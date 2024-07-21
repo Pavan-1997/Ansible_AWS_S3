@@ -43,3 +43,9 @@ sudo apt install ansible -y
 ansible-galaxy collection install amazon.aws
 ```
 
+7. List the AWS buckets created with defaults
+```
+aws s3 ls
+```
+![image](https://github.com/user-attachments/assets/5841c16f-8b7c-4741-82d5-db85079b475c)
+
