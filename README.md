@@ -49,3 +49,6 @@ aws s3 ls
 ```
 ![image](https://github.com/user-attachments/assets/5841c16f-8b7c-4741-82d5-db85079b475c)
 
+![image](https://github.com/user-attachments/assets/4af6af00-8e19-4e07-9f8b-59cc04ce4df4)
+
+
