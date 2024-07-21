@@ -13,7 +13,14 @@ sudo ./aws/install
 aws --version
 ```
 
-2. Configure AWS CLI
+
+2. Go to AWS Console -> IAM -> Access management - Users -> Create user -> Give name -> Attach Policies - AmazonEC2FullAccess -> Create user
+
+
+3. In the AM -> Access management - Users -> Select the created user -> Security credentials -> Create access key -> Select Application running outside AWS -> Next -> Create access key -> Done 
+
+
+4. Configure AWS CLI
 ```
 aws configure
 ```
@@ -22,13 +29,13 @@ aws configure
 `REGION - us-west-1`
 
 
-3. Install boto3
+5. Install boto3
 
 ```
 pip install boto3
 ```
 
-4. Install Ansible & its AWS Collection
+6. Install Ansible & its AWS Collection
 ```
 sudo apt install ansible -y
 ```
